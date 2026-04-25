@@ -9,3 +9,6 @@ A cloud resume project built on AWS
 
 ## Author
 Mushegh Khachatryan
+
+## Status
+In progress
