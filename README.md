@@ -1,4 +1,4 @@
-# My Cloud Portfolio
+# A serverless resume project built on AWS
 
 A cloud resume project built on AWS
 
