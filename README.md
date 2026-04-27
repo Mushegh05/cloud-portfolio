@@ -1,6 +1,6 @@
-# A serverless cloud-native resume project built on AWS
+# My cloud portfolio
 
-A cloud resume project built on AWS
+A serverless, cloud-native resume project built on AWS
 
 ## Sections
 - frontend
