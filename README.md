@@ -1,4 +1,4 @@
-# A cloud-native resume project built on AWS
+# A serverless cloud-native resume project built on AWS
 
 A cloud resume project built on AWS
 
