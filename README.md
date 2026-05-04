@@ -16,4 +16,4 @@ In progress
 ## Tech Stack
 - Cloud: AWS (S3, CloudFront, Lambda, DynamoDB)
 - Infrastructure: Bash, Git
-- NetWorking: HTTPS via CloudFront + ACM
+- Networking: HTTPS via CloudFront + ACM
